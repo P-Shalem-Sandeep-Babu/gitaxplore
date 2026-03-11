@@ -14,4 +14,4 @@ services:
     env: static
     rootDir: frontend
     buildCommand: "" # No build step required for static HTML
-    staticPublishPath: ./
+    staticPublishPath: ./DASHBOARD
